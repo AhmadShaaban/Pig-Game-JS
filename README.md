@@ -11,4 +11,4 @@
 * if you got two 6 in row your entire score will be zero
 
 
-![Game](imgur.com/0ebrbon)
+![Game](game.png)
