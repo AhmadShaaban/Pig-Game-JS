@@ -1,5 +1,5 @@
 # Pig-Game-JS
-### it so simple.
+### it so simple.it was JS practice .
 
 ------------------
 ### Game Rules.
